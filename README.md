@@ -3,7 +3,7 @@
 Upload your CSV file, codebook.md, and any json files/relevant files here. AND 
 
 ---
-fill in the following two links.
+Fill in the following two links.
 
  - Google Colab shared Link:  
  - ChatGPT shared link:  
