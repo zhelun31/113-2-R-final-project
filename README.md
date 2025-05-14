@@ -1,6 +1,6 @@
 # 113-2-R-final-project
 
-Upload your data, codebook, and any json files/relevant files here. AND 
+Upload your CSV file, codebook.md, and any json files/relevant files here. AND 
 
 ---
 fill in the following two links.
